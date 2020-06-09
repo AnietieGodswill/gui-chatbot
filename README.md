@@ -1,6 +1,9 @@
-# gui-chatbot
+# GUI CHATBOT
 
-This is a gui based chatbot 
+A gui based chatbot using python
 
 ![](img/1.PNG)
 
+
+## 🌟 Contact Me
+Gmail: dx4iot@gmail.com
