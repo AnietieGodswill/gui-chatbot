@@ -2,6 +2,15 @@
 
 A gui based chatbot using python
 
+### Features
+
+👉 Simple Talks
+  
+👉 Calculator
+  
+👉 Wikipedia Search
+
+
 ![](img/1.PNG)
 
 
