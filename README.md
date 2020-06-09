@@ -5,6 +5,8 @@ A gui based chatbot using python
 ### Features
 
 👉 Simple Talks
+
+👉 Current Date/Time
   
 👉 Calculator
   
