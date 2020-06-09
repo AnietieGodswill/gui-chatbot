@@ -12,6 +12,7 @@ A gui based chatbot using python
   
 👉 Wikipedia Search
 
+👉 More (Comming Soon)
 
 ![](img/1.PNG)
 
