@@ -4,15 +4,15 @@ A gui based chatbot using python
 
 ### Features
 
-👉 Simple Talks
+👉  Simple Talks
 
-👉 Current Date/Time
+👉  Current Date/Time
   
-👉 Calculator
+👉  Calculator
   
-👉 Wikipedia Search
+👉  Wikipedia Search
 
-👉 More (Comming Soon)
+👉  More (Comming Soon)
 
 ![](img/1.PNG)
 
